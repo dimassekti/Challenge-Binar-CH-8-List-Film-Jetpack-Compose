@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChallengeChapterEight</string>
+    <string name="title_activity_login_compose">LoginComposeActivity</string>
+    <string name="title_activity_register_compose">RegisterComposeActivity</string>
+    <string name="title_activity_profile_compose">ProfileComposeActivity</string>
+    <string name="title_activity_home_compose">HomeComposeActivity</string>
+</resources>
