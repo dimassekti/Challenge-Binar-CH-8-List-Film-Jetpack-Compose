@@ -11,7 +11,7 @@ android {
     defaultConfig {
         applicationId "com.coufie.challengechaptereight"
         minSdk 21
-        targetSdk 32
+        targetSdk 29
         versionCode 1
         versionName "1.0"
 
@@ -21,14 +21,6 @@ android {
         }
     }
 
-    lint {
-        baseline = file("lint-baseline.xml")
-    }
-
-    lintOptions {
-        abortOnError false
-        checkReleaseBuilds false
-    }
 
     buildTypes {
         release {
