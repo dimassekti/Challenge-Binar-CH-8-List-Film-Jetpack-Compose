@@ -1,7 +1,9 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">ChallengeChapterEight</string>
     <string name="title_activity_login_compose">LoginComposeActivity</string>
     <string name="title_activity_register_compose">RegisterComposeActivity</string>
     <string name="title_activity_profile_compose">ProfileComposeActivity</string>
     <string name="title_activity_home_compose">HomeComposeActivity</string>
+    <string name="title_activity_news_detail_compose" tools:ignore="UnusedResources">NewsDetailCompose</string>
+    <string name="title_activity_film_detail_compose" tools:ignore="UnusedResources">FilmDetailCompose</string>
 </resources>

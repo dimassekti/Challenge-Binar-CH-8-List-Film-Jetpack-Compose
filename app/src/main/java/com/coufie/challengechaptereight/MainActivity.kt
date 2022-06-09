@@ -18,6 +18,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.sp
 import com.coufie.challengechaptereight.ui.theme.ChallengeChapterEightTheme
 
 class MainActivity : ComponentActivity() {
@@ -52,9 +53,10 @@ fun Greeting(name: String) {
     ) {
 
         Image(
-            painter = painterResource(R.drawable.ic_launcher_background),
+
+            painter = painterResource(R.drawable.a20may2022),
             contentDescription = "icon")
-        Text(text = "Hello $name!", color = Color.Cyan)
+        Text(text = "Hello, Human..", color = Color.Black, fontSize = 20.sp)
     }
 }
 
@@ -62,6 +64,5 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     ChallengeChapterEightTheme {
-        Greeting("Android")
     }
 }

@@ -55,7 +55,7 @@ fun Greeting4(name: String) {
         )
 
         Image(
-            painter = painterResource(R.drawable.jett),
+            painter = painterResource(R.mipmap.ic_jett),
             contentDescription = "icon")
 
         Spacer(
