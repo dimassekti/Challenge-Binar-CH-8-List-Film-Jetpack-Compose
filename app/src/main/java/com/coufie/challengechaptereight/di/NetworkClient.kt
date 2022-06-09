@@ -1,3 +1,5 @@
+@file:Suppress("unused", "unused", "unused")
+
 package com.coufie.challengechaptereight.di
 
 import com.coufie.challengechaptereight.api.ApiService
