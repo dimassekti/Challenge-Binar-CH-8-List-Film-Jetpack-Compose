@@ -11,7 +11,7 @@ android {
     defaultConfig {
         applicationId "com.coufie.challengechaptereight"
         minSdk 21
-        targetSdk 29
+        targetSdk 32
         versionCode 1
         versionName "1.0"
 
