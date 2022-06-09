@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/a20may2022.png" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/jett.jpg" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/jett.jpg" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/jett.jpg" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/jett.jpg" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/jett.jpg" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/jett.jpg" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/jett.jpg" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/jett.jpg" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/jett.jpg" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/jett.jpg" />
+        <ignore path="D:/Android Project/ChallengeChapterEight/app/src/main/res/drawable/jett.jpg" />
+    </issue>
+</lint>
