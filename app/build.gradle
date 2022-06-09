@@ -20,7 +20,12 @@ android {
             useSupportLibrary true
         }
     }
-
+    lintOptions {
+        // If set to true (default), stops the build if errors are found.
+        abortOnError = false
+        // If true, only report errors.
+        ignoreWarnings = true
+    }
 
     buildTypes {
         release {
